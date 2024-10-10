@@ -1,0 +1,8 @@
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\obj\Debug\ConsoleTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\matisik-i-a\Desktop\Studs\324\ConsoleTest\obj\Debug\ConsoleTest.pdb
