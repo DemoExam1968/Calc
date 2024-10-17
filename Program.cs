@@ -11,6 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             int a, b, resultAdd, resultSub, resultMul, resultDiv;
+            double sin;
             Console.WriteLine("Введите первое число ");
             a=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число ");
@@ -22,7 +23,10 @@ namespace ConsoleTest
             resultMul = a * b;
             Console.WriteLine("Умножение = " + resultMul);
             resultDiv = a / b;
-            Console.WriteLine("Умножение = " + resultDiv);
+            Console.WriteLine("Деление = " + resultDiv);
+
+            sin = Math.Sin(a);
+            Console.WriteLine($"sin({a}) = {sin}");
             Console.ReadKey();
         }
     }
