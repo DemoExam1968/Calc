@@ -11,7 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             int a, b, resultAdd, resultSub, resultMul, resultDiv;
-            double sin, cos;
+            double sin, cos, pow;
             Console.WriteLine("Введите первое число ");
             a=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число ");
@@ -29,6 +29,9 @@ namespace ConsoleTest
             Console.WriteLine($"sin({a}) = {sin}");
             cos = Math.Cos(a);
             Console.WriteLine($"cos({a}) = {cos}");
+
+            pow = Math.Pow(a, b);
+            Console.WriteLine($"pow({a}, {b}) = {pow}");
             Console.ReadKey();
         }
     }
