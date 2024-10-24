@@ -26,6 +26,8 @@ namespace ConsoleTest
             resultDiv = a / b;
             Console.WriteLine("Деление = " + resultDiv);
 
+            // комментарий
+
             sin = Math.Sin(a);
             Console.WriteLine($"sin({a}) = {sin}");
             cos = Math.Cos(a);
